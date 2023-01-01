@@ -1,0 +1,24 @@
+# Response Essay 4
+
+SID 12011124
+
+Name 冯柏钧
+
+> [Helga Synnevag Lovoll, Knut-willy Sather and Mark Graves, Feeling at home in the Wilderness: environmental conditions, well-being and aesthetic experience, Frontiers in Psychology, 2020.3.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00402/full)
+
+In the paper, the authors discuss the relationship among environmental conditions, well-being and aesthetic experience. They reached their conclusions by studying the changes in aesthetic experience and happiness of a group of students under different environmental conditions.
+
+**The main argument**
+
+The authors‘ main argument is that wilderness experiences can create aesthetic experiences and improve well-being. These feelings include a sense of belonging to wilderness as a home, and further give us a moral sense of the value of wilderness.
+
+**Thought of argumentation**
+
+First, the authors introduce the relevant concepts. Environmental conditions influence one's aesthetic experience in a natural setting, and understanding this effect requires considering the conditions that affect one's attention and experience. Instead of trying to reduce and control for environmental factors, they compare two similar groups under naturally occurring, intense and overwhelming conditions, and examine common characteristics and the relationship between environmental and group differences. Participants participated in a five-day Winter Wilderness Adventure training course designed to challenge their considerable wilderness and leadership skills in two different extreme weather conditions within the same wilderness area. In addition to pre - and post-adventure questionnaires, participants answered each day during the wilderness experience, briefly describing a self-selected intense nature experience; To represent its associated sensory states; And answer eight questions about the aesthetic aspects of the exploration experience. Participants' intense experience of nature was linked to hedonism and happiness, in different ways depending on environmental conditions. In particular, there was a strong correlation between ratings of agreement with the daily experience report "I feel at home in nature" and satisfaction with measures of life and personal growth traits, but mainly in sunny and cold conditions on the plateau and not evident in stormy and wet weather in the mountain forests. In addition, the experiential narratives most consistent with the feeling of home in nature were examined and synthesized into six dimensions: attention to the sensory experience of a particular moment, self-reflection, wonder, appreciation of beauty, positive emotions, and insight into the relationship to nature. These discoveries realize the concept of surprise caused by sudden sensations or reflections as the significant ingredient of feeling at home in the wilderness. The feeling of being at home found in nature, as the most important trait associated with feeling and happiness, is associated with self-awareness, philosophical thinking, and an underlying sense of morality.
+
+Their research empirical method uses a mixed approach, quantitative analysis of survey data and experience report, and qualitative textual analysis of experience report narrative. Second, our theoretical approach focuses narrowly on how aesthetic experiences in wilderness adventures affect well-being, and philosophically branches off to include not only narrow experiences of natural beauty, but also the sublime, its associated sense of awe and wonder, and the interconnectedness, communication, and belonging in wilderness experiences. This multifaceted approach enables a close examination of the full aesthetic experience and its interrelationship with the richer concept of happiness.
+
+**My opinion**
+
+In my opinion, they have in-depth analysis of relevant concepts and comprehensive research methods, but the selection of samples is still to be discussed. Perhaps for reasons of viability and social experience, they chose 67 student participants from the same university. At the same time, they come from the same university. Regardless of the challenge of survival under such harsh conditions, which may be difficult for the elderly and young children to complete, I think the participants can also include young adults of different ages. To say the least, even if only students are selected as samples, college students from different regions should also be selected. Instead of just choosing a college student. These are my questions about the diversity of the sample. Of course, considering the practical reasons, it is difficult to choose a rich sample, I think this conclusion is relatively convincing. I think that when we focus on the wilderness (the harsh environment and existential challenges in this case), we naturally connect to it, and this spiritual experience gradually changes a lot of our perspective.
+
